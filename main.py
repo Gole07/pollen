@@ -4,7 +4,7 @@ from datetime import date, timedelta
 import time
 from colorama import Fore, Style
 
-print("--=[ PolenPy by Cysecor ]=--")
+print("--=[ PolenPy by Gole ]=--")
 time.sleep(1)
 print("--=[ Skripta pokazuje koncentraciju polena u izabranom mjestu u poslednjih X dana. ]=--")
 time.sleep(3)
